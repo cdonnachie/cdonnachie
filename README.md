@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+[![Craig's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdonnachie&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JS-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Crypto-Bitcoin-informational?style=flat&logo=bitcoin&logoColor=white&color=2bbc8a)
+
+- 💻 Avian Network US Lead Developer
+
 <!--
 **cdonnachie/cdonnachie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
